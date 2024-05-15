@@ -1,0 +1,19 @@
+search place endpoint facebook: "https://web.facebook.com/search/places/?q={keyword}&epa=FILTERS&filters=e30&_rdc=1&_rdr
+
+search postingan facebook endpoint: "https://web.facebook.com/search/posts?q={keyword}"
+
+search people endpoint on facebook default: "https://web.facebook.com/search/people/?q={keyword}&epa=FILTERS&filters=e30&_rdc=1&_rdr
+
+search photo endpoint: "https://web.facebook.com/search/photos/?q={keyword}&epa=FILTERS&filters=e30&_rdc=1&_rdr"
+
+search halaman endpoint: "https://web.facebook.com/search/pages/?q={keyword}&epa=FILTERS&filters=e30&_rdc=1&_rdr
+
+search video endpoint: "https://web.facebook.com/search/videos/?q={keyword}&epa=FILTERS&filters=e30&_rdc=1&_rdr
+
+search event endpoints: "https://web.facebook.com/search/events/?q={keyword}&epa=FILTERS&filters=e30&_rdc=1&_rdr
+
+search semua endpoints: "https://web.facebook.com/search/top/?q={keyword}&epa=FILTERS&filters=e30&_rdc=1&_rdr"
+
+search marketplace endpoints: "https://web.facebook.com/marketplace/113092535373209/search/?query={keyword}
+
+search grup endpoints: "https://web.facebook.com/search/groups/?q={keyword}
